@@ -1,6 +1,6 @@
 package pruebaCirculo;
 
-public class Circle implements IFiguraGeometrica {
+public class Circle implements IFiguraGeometrica { // implements interface from method getArea
 	final double CERO = 0.0;
 	
 	private int x;
